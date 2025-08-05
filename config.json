@@ -1,0 +1,7 @@
+{
+    "osc_ip": "127.0.0.1",
+    "osc_port": 9000,
+    "message_interval": 5,
+    "message_text": "Hello VRChat!1132",
+    "window_geometry": "432x414+458+131"
+}
